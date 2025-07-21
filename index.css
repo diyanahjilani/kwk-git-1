@@ -1,11 +1,9 @@
-css
-Copy
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 body {
-    background-color: #d5ccde;
+  background-color: #fffff;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
 }
